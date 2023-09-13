@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate data scientist with a love for solving complex problems through data-driven insights. Here's a glimpse of who I am:
 
-📍 **Location:** Jersey City, NJ 🇺🇸
-📧 **Email:** [Your Email](mailto:arnav.agrawal2010@gmail.com)
-🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arnav1999/)
+📍 **Location:** Jersey City, NJ 🇺🇸  
+📧 **Email:** [Gmail](mailto:arnav.agrawal2010@gmail.com)   
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arnav1999/)  
 
 ## Objective
 
